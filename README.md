@@ -15,4 +15,5 @@ Data Visulaization : Power BI.
 cleaning : Excel, Power query.
 
 # Dashboard Screenshot
-![uk road photo](https://github.com/Tarunkumar799/UK-road-accident/assets/134605831/22f834fe-28ad-4db2-b71f-a549fc23175f)
+
+![uk dashboard](https://github.com/Tarunkumar799/UK-road-accident/assets/134605831/2019cb78-ba51-45dc-9f79-56fbe3f40b32)
